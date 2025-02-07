@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  relationship: MyString
+  first_name: MyString
+  middle_name: MyString
+  last_name: MyString
+  birth_month: 1
+  birth_day_of_month: 1
+  birth_year: 1
+  age: 1
+  date_of_last_meetup: 2025-02-07 13:57:34
+  time_since_last_meetup: 1
+  date_of_last_communication: 2025-02-07 13:57:34
+  time_since_last_communication: 1
+
+two:
+  relationship: MyString
+  first_name: MyString
+  middle_name: MyString
+  last_name: MyString
+  birth_month: 1
+  birth_day_of_month: 1
+  birth_year: 1
+  age: 1
+  date_of_last_meetup: 2025-02-07 13:57:34
+  time_since_last_meetup: 1
+  date_of_last_communication: 2025-02-07 13:57:34
+  time_since_last_communication: 1
