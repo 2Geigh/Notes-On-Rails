@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "express": "^4.21.2",
+    "nodemon": "^3.1.9",
     "nvm": "^0.0.4"
   },
   "name": "notes-on-rails",
